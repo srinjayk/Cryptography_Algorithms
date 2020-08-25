@@ -1,0 +1,34 @@
+curl -H "Content-Type: application/json" --request POST --data '{"plaintext": "ggflkkgkhfiruigu", "password": "7d1480a22895004ec4879c98dacc6d32", "teamname": "SchutzSAS"}' -k https://172.27.26.181:9998/des
+rrqqjpqjghhrupjp
+curl -H "Content-Type: application/json" --request POST --data '{"plaintext": "fkjijkgkmghnuigu", "password": "7d1480a22895004ec4879c98dacc6d32", "teamname": "SchutzSAS"}' -k https://172.27.26.181:9998/des
+{'ciphertext': 'poprllqkqfmsrlpu', 'success': False}
+poprllqkqfmsrlpu
+curl -H "Content-Type: application/json" --request POST --data '{"plaintext": "jjqjngirqktmskss", "password": "7d1480a22895004ec4879c98dacc6d32", "teamname": "SchutzSAS"}' -k https://172.27.26.181:9998/des
+oojgrghgsmljtspq
+curl -H "Content-Type: application/json" --request POST --data '{"plaintext": "kfugogirtjuiskss", "password": "7d1480a22895004ec4879c98dacc6d32", "teamname": "SchutzSAS"}' -k https://172.27.26.181:9998/des
+{'ciphertext': 'kpftjrhirutmtqqq', 'success': False}
+kpftjrhirutmtqqq
+curl -H "Content-Type: application/json" --request POST --data '{"plaintext": "lnprgllsnlnpfplk", "password": "7d1480a22895004ec4879c98dacc6d32", "teamname": "SchutzSAS"}' -k https://172.27.26.181:9998/des
+nsqplqfhpptprqfp
+curl -H "Content-Type: application/json" --request POST --data '{"plaintext": "mrtofllssmotfplk", "password": "7d1480a22895004ec4879c98dacc6d32", "teamname": "SchutzSAS"}' -k https://172.27.26.181:9998/des
+{'ciphertext': 'nsskistnrmofrmqo', 'success': False}
+nsskistnrmofrmqo
+curl -H "Content-Type: application/json" --request POST --data '{"plaintext": "kptrtftostrlfupq", "password": "7d1480a22895004ec4879c98dacc6d32", "teamname": "SchutzSAS"}' -k https://172.27.26.181:9998/des
+mlfgmnoipqukrhii
+curl -H "Content-Type: application/json" --request POST --data '{"plaintext": "jtpouftonushfupq", "password": "7d1480a22895004ec4879c98dacc6d32", "teamname": "SchutzSAS"}' -k https://172.27.26.181:9998/des
+{'ciphertext': 'klorfriktqksmqri', 'success': False}
+klorfriktqksmqri
+curl -H "Content-Type: application/json" --request POST --data '{"plaintext": "iprqlugrgglurhoj", "password": "7d1480a22895004ec4879c98dacc6d32", "teamname": "SchutzSAS"}' -k https://172.27.26.181:9998/des
+hkntlfnosqhiiouu
+curl -H "Content-Type: application/json" --request POST --data '{"plaintext": "flfrksgtthkirfol", "password": "7d1480a22895004ec4879c98dacc6d32", "teamname": "SchutzSAS"}' -k https://172.27.26.181:9998/des
+juosmtpptimhfmrtcurl -H "Content-Type: application/json" --request POST --data '{"plaintext": "fmitlsrjrggghjfn", "password": "7d1480a22895004ec4879c98dacc6d32", "teamname": "SchutzSAS"}' -k https://172.27.26.181:9998/des
+ikrpjgkookqhsqmh
+curl -H "Content-Type: application/json" --request POST --data '{"plaintext": "iquokurlihhshlfp", "password": "7d1480a22895004ec4879c98dacc6d32", "teamname": "SchutzSAS"}' -k https://172.27.26.181:9998/des
+nslsskgfinnronslcurl -H "Content-Type: application/json" --request POST --data '{"plaintext": "nkosmpgukpqgtuts", "password": "7d1480a22895004ec4879c98dacc6d32", "teamname": "SchutzSAS"}' -k https://172.27.26.181:9998/des
+hijmlgjfinmqojis
+curl -H "Content-Type: application/json" --request POST --data '{"plaintext": "qokpjngsponststu", "password": "7d1480a22895004ec4879c98dacc6d32", "teamname": "SchutzSAS"}' -k https://172.27.26.181:9998/des
+ffrjnfjlqklutuhfcurl -H "Content-Type: application/json" --request POST --data '{"plaintext": "igoggphfrsipjrrg", "password": "7d1480a22895004ec4879c98dacc6d32", "teamname": "SchutzSAS"}' -k https://172.27.26.181:9998/des
+phohglfimlnfiors
+curl -H "Content-Type: application/json" --request POST --data '{"plaintext": "fsklhnhhitfljtri", "password": "7d1480a22895004ec4879c98dacc6d32", "teamname": "SchutzSAS"}' -k https://172.27.26.181:9998/des
+tturnggsjsiikntfcurl -H "Content-Type: application/json" --request POST --data '{"plaintext": "grhrlgipjlffhfontnhushtpjntpmhhk", "password": "7d1480a22895004ec4879c98dacc6d32", "teamname": "SchutzSAS"}' -k https://172.27.26.181:9998/des
+{'success': True}
