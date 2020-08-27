@@ -5,11 +5,13 @@ The repository contains all the assignments accomplished in the course by the te
   * Kumar Shivam
 
 The course had seven assignments, briefly,
-  * Substitution Cipher - 
-  * Vignere Cipher - 
-  * DES - 
+  * Substitution Cipher - Used frequency analysis to decrypt the cipher
+  * Vignere Cipher - Used ChiSquared test to decrypt the message
+  * DES - Used known plain text attack to break a 3-round DES
   * AES Variation - 
-  * 
+  * Permutation Substitution Cipher - Generated all the possible permutations and used method for substitution cipher to get the message
+  * RSA - 
+  * WECCAK - 
   
-To promote python and C++ intermingling, Cython was used in the later two assignments.
+
  
